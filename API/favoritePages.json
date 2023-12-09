@@ -5,16 +5,16 @@
   "category":["Video"],
   "description":""
 },{
-  "icon":"",
+  "icon":"https://cdn.svgporn.com/logos/youtube-icon.svg",
   "name":"Youtube Music",
   "link":"https://music.youtube.com/",
   "category":["Music"],
   "description":""
 },{
-  "icon":"",
+  "icon":"https://cdn.svgporn.com/logos/google-maps.svg",
   "name":"Google Maps",
   "link":"https://www.google.com/maps/@-9.9254249,-76.2301123,14.63z?entry=ttu",
-  "category":[""],
+  "category":["Maps"],
   "description":""
 },{
   "icon":"",
@@ -35,7 +35,7 @@
   "category":[""],
   "description":""
 },{
-  "icon":"",
+  "icon":"https://cdn.svgporn.com/logos/google-gmail.svg",
   "name":"GMail",
   "link":"https://mail.google.com/",
   "category":[""],
@@ -54,51 +54,51 @@
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Pinterest",
   "link":"https://www.pinterest.es/",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Instagram",
   "link":"https://www.instagram.com/",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Facebook",
   "link":"https://web.facebook.com/",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Discord",
   "link":"https://discord.com/channels/@me",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Twitter",
   "link":"https://twitter.com/home",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Stripe | Dashboard",
   "link":"https://dashboard.stripe.com/dashboard",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"You",
   "link":"https://you.com/",
-  "category":[""],
+  "category":["Buscador Web"],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Icon Icons",
   "link":"https://icon-icons.com/icon/folder-css/161295",
-  "category":[""],
+  "category":["Icons"],
   "description":""
 },{
   "icon":"",
@@ -108,25 +108,25 @@
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Spotify",
   "link":"https://open.spotify.com/intl-es",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Canva",
   "link":"https://www.canva.com/",
   "category":[""],
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Google Scholar",
   "link":"https://scholar.google.es/schhp?hl=es&as_sdt=0,5",
   "category":[""],
   "description":""
 },{
-  "icon":"",
-  "name":"",
+  "icon":"https://cdn.svgporn.com/logos/telegram.svg",
+  "name":"Telegram Web",
   "link":"https://web.telegram.org/k/",
   "category":[""],
   "description":""
@@ -251,10 +251,10 @@
   "category":[""],
   "description":""
 },{
-  "icon":"",
-  "name":"",
-  "link":"http://localhost/",
-  "category":[""],
+  "icon":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiNmZjNlMDAiIGQ9Ik0yNi40NyA1LjdhOC45NzMgOC45NzMgMCAwIDAtMTEuNzkzLTIuNDU0TDcuOTYgNy40YTcuNDYxIDcuNDYxIDAgMCAwLTMuNDgxIDUuMDA5YTcuNjg2IDcuNjg2IDAgMCAwIC44IDUuMDU4YTcuMzU4IDcuMzU4IDAgMCAwLTEuMTUxIDIuOGE3Ljc4OSA3Ljc4OSAwIDAgMCAxLjQgNi4wMjhhOC45NzcgOC45NzcgMCAwIDAgMTEuNzk0IDIuNDU4TDI0LjA0IDI0LjZhNy40NjggNy40NjggMCAwIDAgMy40ODEtNS4wMDlhNy42NzMgNy42NzMgMCAwIDAtLjgtNS4wNjJhNy4zNDggNy4zNDggMCAwIDAgMS4xNTItMi44QTcuNzg1IDcuNzg1IDAgMCAwIDI2LjQ3IDUuNyIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNC4wMjIgMjYuNjRBNS40MTMgNS40MTMgMCAwIDEgOC4zIDI0LjU4MWE0LjY3OCA0LjY3OCAwIDAgMS0uODQ4LTMuNjI1YTQuMzA3IDQuMzA3IDAgMCAxIC4xNTktLjYxbC4xMjctLjM3NWwuMzQ0LjIzOGE4Ljc2IDguNzYgMCAwIDAgMi42MjggMS4yNzRsLjI0NS4wNzNsLS4wMjUuMjM3YTEuNDQxIDEuNDQxIDAgMCAwIC4yNzEuOTY4YTEuNjMgMS42MyAwIDAgMCAxLjc0My42MzZhMS41MTIgMS41MTIgMCAwIDAgLjQxMS0uMTc1bDYuNy00LjE1NGExLjM2NiAxLjM2NiAwIDAgMCAuNjMzLS45MDlhMS40MDcgMS40MDcgMCAwIDAtLjI0NC0xLjA5MWExLjYzNCAxLjYzNCAwIDAgMC0xLjcyNi0uNjIyYTEuNTA5IDEuNTA5IDAgMCAwLS40MTMuMTc2bC0yLjU3MiAxLjU4NGE0LjkzNCA0LjkzNCAwIDAgMS0xLjM2NC41ODJhNS40MTUgNS40MTUgMCAwIDEtNS43MjctMi4wNmE0LjY3OCA0LjY3OCAwIDAgMS0uODMxLTMuNjI4QTQuNTA3IDQuNTA3IDAgMCAxIDkuOSAxMC4wOWw2LjcwOC00LjE1NGE0LjkzMiA0LjkzMiAwIDAgMSAxLjM2NC0uNTgxQTUuNDEzIDUuNDEzIDAgMCAxIDIzLjcgNy40MTRhNC42NzkgNC42NzkgMCAwIDEgLjg0OCAzLjYyNWE0LjI3MiA0LjI3MiAwIDAgMS0uMTU5LjYxbC0uMTI3LjM3NWwtLjM0NC0uMjM3YTguNzEzIDguNzEzIDAgMCAwLTIuNjI4LTEuMjc0bC0uMjQ1LS4wNzRsLjAyNS0uMjM3YTEuNDM4IDEuNDM4IDAgMCAwLS4yNzItLjk2OGExLjYyOSAxLjYyOSAwIDAgMC0xLjcyNS0uNjIyYTEuNDg0IDEuNDg0IDAgMCAwLS40MTEuMTc2bC02LjcyMiA0LjE0YTEuMzUzIDEuMzUzIDAgMCAwLS42MzEuOTA4YTEuMzk0IDEuMzk0IDAgMCAwIC4yNDQgMS4wOTJhMS42MzQgMS42MzQgMCAwIDAgMS43MjYuNjIxYTEuNTM4IDEuNTM4IDAgMCAwIC40MTMtLjE3NWwyLjU2Mi0xLjU4NWE0LjkgNC45IDAgMCAxIDEuMzY0LS41ODFhNS40MTcgNS40MTcgMCAwIDEgNS43MjggMi4wNTlhNC42ODEgNC42ODEgMCAwIDEgLjg0MyAzLjYyNWE0LjUgNC41IDAgMCAxLTIuMDg5IDMuMDEzbC02LjcwNyA0LjE1NGE0LjkgNC45IDAgMCAxLTEuMzY0LjU4MSIvPjwvc3ZnPg==",
+  "name":"Svelte",
+  "link":"https://svelte.dev",
+  "category":["Frameworks JavaScript"],
   "description":""
 },{
   "icon":"",
@@ -276,19 +276,19 @@
   "description":""
 },{
   "icon":"",
-  "name":"",
+  "name":"Bard",
   "link":"",
   "category":[""],
   "description":""
 },{
-  "icon":"",
-  "name":"",
-  "link":"",
-  "category":[""],
+  "icon":"https://cdn.svgporn.com/logos/google-icon.svg",
+  "name":"Google",
+  "link":"https://www.google.com",
+  "category":["Buscador Web"],
   "description":""
 },{
-  "icon":"",
-  "name":"",
+  "icon":"https://www.gnu.org/software/bash/",
+  "name":"Bash",
   "link":"",
   "category":[""],
   "description":""

@@ -2,6 +2,48 @@
   padding: 0;
   margin: 0;
   font-family: Poppins;
+  border: none;
+  list-style: none;
+  outline: none;
+  color: white;
+  background: transparent;
+}
+body{
+  background-color: #0b1120;
+}
+form{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form > input{
+  padding: 4px 12px;
+  font-size: 18px;
+  background-color: #1e293b;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.164);
+  border-radius: 10px;
+  border: 2px solid transparent;
+  border-top: 1px solid hsl(223, 49%, 28%);
+  border-left: 0 solid gray;
+  border-right: 0 solid gray;
+}
+form>input:focus{
+  /* border: 2px solid blueviolet; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.164);
+  background-color: hsl(217, 33%, 20%);
+}
+nav>ul{
+  display: flex;
+  gap: 10px;
+  padding: 12px;
+}
+ul>li{
+  background-color: hsl(223, 49%, 16%);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight:normal;
+  cursor: pointer;
 }
 section.cards{
   display: grid;
@@ -15,16 +57,21 @@ article{
   gap:10px;
   cursor: pointer;
   border-radius: 12px;
+  background-color: hsl(223, 49%, 12%);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.164);
+  align-items: center;
+
 }
 article:hover{
-  background-color: rgb(235, 235, 255);
+  background-color: hsl(223, 49%, 16%);
 }
 .img-card{
   width: 40px;
   height: 40px;
 }
-.img-card[src^="data"]{
+.img-card[src^="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxLjUiPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEyIDIydi0yIiBvcGFjaXR5PSIuNSIvPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTQgMTYuNTYyQTEwLjI4NyAxMC4yODcgMCAwIDAgMTEuNjg3IDIwQzE3LjM4MyAyMCAyMiAxNS4zODMgMjIgOS42ODdDMjIgNi42MzMgMjAuNjcyIDMuODg4IDE4LjU2MiAyIi8+PHBhdGggZD0iTTcgNC41NTNjLjU4NS41NTIgMS43OSAyLjA2MyAxLjkzMSAzLjY4NGMuMTMxIDEuNTE1IDEuMDk2IDIuNzQ2IDIuNTY5IDIuNzYzYy41NjYuMDA2IDEuMTM5LS40MTggMS4xMzctMS4wMDVjMC0uMTgyLS4wMy0uMzY3LS4wNzQtLjUzOGExLjEzNyAxLjEzNyAwIDAgMSAuMDYyLS43OWMuNDU3LS45NzggMS4zNTctMS4yNDEgMi4wNy0xLjc3MmMuMzE2LS4yMzYuNjA0LS40ODQuNzMyLS42ODRjLjM1LS41NTMuNzAyLTEuNjU4LjUyNi0yLjIxMW0tMi42NjIgMTNjLS4yMi0uNDE0LS41MjctMS40OSAwLTIuNDgzYy42NTktMS4yNDEgMi44NTQtMS4yNDEgMi44NTQtMS4yNDFjMS42OTItLjAxOCAyLjMwMi0uNzgyIDIuNTg4LTEuNDYyTTE5IDEwYTcgNyAwIDEgMS0xNCAwYTcgNyAwIDAgMSAxNCAwWiIgb3BhY2l0eT0iLjUiLz48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIGQ9Ik0xMCAyMmg0Ii8+PC9nPjwvc3ZnPg=="]{
   opacity: 0.5;
+  filter: invert(1);
 }
 .card-info{
   display: flex;
