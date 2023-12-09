@@ -1,6 +1,6 @@
 const $sectionCards = document.querySelector("section.cards");
 
-fetch("/API/favoritePages.json")
+fetch("API/favoritePages.json")
   .then((response) => {
     // network failure, request prevented
     if (response.status >= 200 && response.status < 300) {
