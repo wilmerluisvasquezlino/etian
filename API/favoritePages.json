@@ -1,0 +1,1105 @@
+[{
+  "icon":"https://cdn.svgporn.com/logos/youtube-icon.svg",
+  "name":"Youtube",
+  "link":"https://www.youtube.com/",
+  "category":["Video"],
+  "description":""
+},{
+  "icon":"",
+  "name":"Youtube Music",
+  "link":"https://music.youtube.com/",
+  "category":["Music"],
+  "description":""
+},{
+  "icon":"",
+  "name":"Google Maps",
+  "link":"https://www.google.com/maps/@-9.9254249,-76.2301123,14.63z?entry=ttu",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Google Translate",
+  "link":"https://translate.google.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"https://cdn.svgporn.com/logos/figma.svg",
+  "name":"Figma",
+  "link":"https://figma.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Google Sheets",
+  "link":"https://docs.google.com/spreadsheets/u/0/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"GMail",
+  "link":"https://mail.google.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Icon Finder",
+  "link":"https://www.iconfinder.com/search",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"WhatsApp Web",
+  "link":"https://web.whatsapp.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.pinterest.es/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.instagram.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://web.facebook.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://discord.com/channels/@me",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://twitter.com/home",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://dashboard.stripe.com/dashboard",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://you.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://icon-icons.com/icon/folder-css/161295",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1037367546867219468",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://open.spotify.com/intl-es",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.canva.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://scholar.google.es/schhp?hl=es&as_sdt=0,5",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://web.telegram.org/k/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.office.com/?auth=1",
+  "category":[""],
+  "description":""
+},{
+  "icon":"https://cdn.svgporn.com/logos/notion-icon.svg",
+  "name":"Notion",
+  "link":"https://www.notion.so/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://chat.openai.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.reddit.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://tailwindcss.com/docs/installation",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://loop.microsoft.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://free3dicon.com/icon/funnel-2/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://www.twitch.tv/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://gitmind.com/app/docs",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://contacts.google.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://svgporn.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://replit.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://app.creately.com/d/start/dashboard",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"https://app.bitly.com/Bn8rl68IYp8/bitlinks/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Tabler Icons",
+  "link":"https://tabler-icons.io/",
+  "category":["Icons"],
+  "description":""
+},{
+  "icon":"",
+  "name":"XMind",
+  "link":"https://xmind.works/home",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Duolingo",
+  "link":"https://www.duolingo.com/learn",
+  "category":[""],
+  "description":""
+},{
+  "icon":"https://cdn.svgporn.com/logos/notion-icon.svg",
+  "name":"Notion",
+  "link":"https://www.notion.so/036e3e7661f4494ab1d5045d1cca6af6",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Bethel TV",
+  "link":"https://www.betheltv.tv/player/channel/5e0689c82cdcb4fdbcd79151?isFromTabLayout=true",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"StackOverflow",
+  "link":"https://stackoverflow.com/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"http://localhost/",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Yandex",
+  "link":"https://yandex.com/images/search?text=ui%20design%20bar&from=tabbar",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Meistertask",
+  "link":"https://www.meistertask.com/app/dashboard",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"Flaticon",
+  "link":"https://www.flaticon.es/packs/home-screen-apps-21",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+},{
+  "icon":"",
+  "name":"",
+  "link":"",
+  "category":[""],
+  "description":""
+}]
